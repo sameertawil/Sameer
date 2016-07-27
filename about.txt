@@ -1,4 +1,5 @@
 This is the about page!
 This project is just practice for me because I am new to git.
 I am finally getting the hang of this language.
-I a learned how to clone a project from github and be able to use it myself. 
+I a learned how to clone a project from github and be able to use it myself.
+I was also able to convert an ant build file to a maven pom file.
